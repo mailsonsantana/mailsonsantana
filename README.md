@@ -9,4 +9,4 @@ ________________________
 
 💻 Infra, Linux, Docker, Kubernetes, Ansible, Git, virtualização
 
-![Mailson Status](https://github-readme-stats.vercel.app/api?username=mailsonsantana&show_icons=true&theme=tokyonight)
+
