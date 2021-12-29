@@ -2,7 +2,7 @@
 
  ### Sobre mim:
 
-😎 Administrador Linux, Entusiasta DevOps, Praticante de Airsof e Pai!
+😎 Administrador Linux, Entusiasta DevOps, Praticante de Airsoft e Pai!
 
 ### Conhecimentos:
 
